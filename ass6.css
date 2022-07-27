@@ -1,0 +1,31 @@
+
+
+body {
+
+    background: url(makeup2.jpg)  no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ margin-inline-start: 0px;
+ 
+ 
+  
+   }
+   .one  {
+    padding: 200px 0;
+    
+    text-align: left;
+    margin-left: 70px;
+  }
+ .two {
+    padding: 100px 0;
+    
+    text-align: left;
+    margin-left: 100px;
+
+ }
+  
+
+
+  
